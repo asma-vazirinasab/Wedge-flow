@@ -1,30 +1,32 @@
-Numerical Simulation of Supersonic Flow over a Wedge
-Project Overview
+# Numerical Simulation of Supersonic Flow over a Wedge
 
-This project investigates the flow of an inviscid, compressible fluid over a wedge using numerical simulation. The computational domain is defined around the wedge geometry, with appropriate boundary conditions applied to model the flow field.
+## Project Overview
 
-The study examines the effects of wedge half-angle and freestream Mach number on the flow characteristics, including the formation and behaviour of oblique shock waves.
+This project investigates inviscid, compressible flow over a wedge using numerical simulation. The computational domain is defined around the wedge geometry, with appropriate boundary conditions applied to model the flow field.
 
-Simulation Parameters
+The study examines the effects of wedge half-angle and freestream Mach number on flow characteristics and oblique shock wave formation.
 
-The flow field is investigated under the following conditions:
+## Simulation Parameters
 
-Wedge half-angle: 15° and 35°.
-Freestream Mach number: 1.2 and 2.5.
-Flow assumptions: Inviscid and compressible.
-Boundary conditions: Defined appropriately for the computational domain and freestream conditions.
+* **Wedge half-angle:** 15° and 35°
+* **Freestream Mach number:** 1.2 and 2.5
+* **Flow assumptions:** Inviscid and compressible
+* **Boundary conditions:** Defined according to the computational domain and freestream conditions
 
-The simulations compare the flow behaviour across different combinations of wedge angle and freestream Mach number.
+The simulations compare flow behaviour for different combinations of wedge angles and freestream Mach numbers.
 
-Objectives
-Investigate compressible flow over a wedge at supersonic and near-sonic conditions.
-Examine the influence of wedge half-angle on the flow field.
-Compare flow characteristics at different freestream Mach numbers.
-Analyse the effects of flow conditions and wedge geometry on oblique shock formation.
-Key Concepts
-Compressible fluid mechanics
-Inviscid flow modelling
-Supersonic aerodynamics
-Oblique shock waves
-Mach number and wedge-angle effects
-Computational fluid dynamics (CFD)
+## Objectives
+
+* Investigate compressible flow over a wedge at different Mach numbers.
+* Examine the influence of wedge half-angle on the flow field.
+* Compare flow characteristics under different freestream conditions.
+* Analyse the effects of wedge geometry and Mach number on oblique shock wave formation.
+
+## Key Concepts
+
+* Computational fluid dynamics (CFD)
+* Compressible fluid mechanics
+* Inviscid flow modelling
+* Supersonic aerodynamics
+* Oblique shock waves
+* Mach number and wedge-angle effects
